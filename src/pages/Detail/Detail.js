@@ -1,12 +1,12 @@
 import React from 'react';
 import {SafeAreaView, Text} from 'react-native';
 
-const App = () => {
+const Detail = () => {
   return (
     <SafeAreaView>
-      <Text> Hello Shop</Text>
+      <Text>Detail</Text>
     </SafeAreaView>
   );
 };
 
-export default App;
+export default Detail;
